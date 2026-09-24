@@ -1,0 +1,32 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.local
+*.env
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node / Next.js
+node_modules/
+.next/
+
+# Generated Data
+data/processed/
+outputs/
+logs/
+
+# Secrets
+*.key
